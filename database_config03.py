@@ -9,7 +9,7 @@ DB_CONFIG = {
     "port": 3306,
     "user": "assetadmin",
     "password": "Prod@2026#Abc!",       # 生产库账号密码
-    "database": "ktamc_customer",
+    "database": "keceamc_customer",
 }
 
 REDIS_CONFIG = {
